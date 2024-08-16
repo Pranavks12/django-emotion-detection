@@ -4,3 +4,7 @@
   ```
   pip install django
   ```
+- Clone git repo
+  ```
+  git clone
+  ```
