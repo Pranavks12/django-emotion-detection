@@ -6,5 +6,9 @@
   ```
 - Clone git repo
   ```
-  git clone
+  git clone https://github.com/Pranavks12/django-emotion-detection.git
+  ```
+- Run server
+  ```
+  python manage.py runserver
   ```
