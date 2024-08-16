@@ -2,7 +2,7 @@
 # steps
 - install libraries
   ```
-  pip install django
+  pip install django , pip install opencv-python 
   ```
 - Clone git repo
   ```
